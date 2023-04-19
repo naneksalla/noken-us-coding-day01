@@ -1,2 +1,2 @@
-# noken-us-coding-day01
-Day01 persiapan kelas
+# noken-us-day-01
+Belajar git and gitHub
